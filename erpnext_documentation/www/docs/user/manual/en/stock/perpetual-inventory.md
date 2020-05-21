@@ -280,7 +280,7 @@ Goods Sold" accounts are also affected based on the valuation amount.
 
 <img class="screenshot" alt="Perpetual Inventory" src="{{docs_base_url}}/assets/img/accounts/perpetual-st-receipt-gl.png">
 
-#### 2.7 Stock Entry (Material Issue)
+#### 2.7 Stock Entry
 
 **Items:**
 
